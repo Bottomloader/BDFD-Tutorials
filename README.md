@@ -2,7 +2,7 @@
 
 [![BDFD Logo](https://github.com/user-attachments/assets/789fb2a2-aa5b-4fe3-a521-4c30b8438519)](https://app.botdesignerdiscord.com/)
 
-### BDFD Tutorials
+### BDFD Tutorials - Unofficial
 
 [![GitHub Forks](https://img.shields.io/github/forks/Bottomloader/BDFD-tuts?style=flat&logo=Github&label=Forks)](https://github.com/Bottomloader/BDFD-tuts/network/members)  
 [![GitHub Repo Stars](https://img.shields.io/github/stars/Bottomloader/BDFD-tuts?style=flat&logo=Github&label=Stars)](https://github.com/Bottomloader/BDFD-tuts/stargazers)  
