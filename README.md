@@ -1,6 +1,6 @@
-<a href="https://app.botdesignerdiscord.com/">
-  <img src="https://github.com/user-attachments/assets/789fb2a2-aa5b-4fe3-a521-4c30b8438519" width="200" />
-</a>
+<div align="center">
+  [![BDFD Logo](https://github.com/user-attachments/assets/789fb2a2-aa5b-4fe3-a521-4c30b8438519)](https://app.botdesignerdiscord.com/)
+</div>
 
 ---
 
