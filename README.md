@@ -24,8 +24,6 @@ Looking for reliable and frequently updated BDFD tutorials? This GitHub page has
 
 ### 🛠️ Tutorials
 
-...
-...
-...
+[Text Split](./src/tutorials/textsplit/textsplitintro)
 
 Still need help? Check out the official [wiki](https://github.com/NilPointer-Software/bdfd-wiki) or ask in the [BDFD server](https://botdesignerdiscord.com/discord)
