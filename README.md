@@ -29,7 +29,7 @@ Looking for reliable and frequently updated BDFD tutorials? This GitHub page has
 
 ### ❓ Asking a question
 
-If you have a qestion about a tutorial, post in please look at the [BDFD wiki](https://github.com/NilPointer-Software/bdfd-wiki) or/and the [BDFD server](https://botdesignerdiscord.com/discord). Your question will be answered much faster there.
+If you have a qestion about a tutorial, please look at the [BDFD wiki](https://github.com/NilPointer-Software/bdfd-wiki) or/and the [BDFD server](https://botdesignerdiscord.com/discord). Your question will be answered much faster there.
 
 ### ❗ Submitting an issue
 
