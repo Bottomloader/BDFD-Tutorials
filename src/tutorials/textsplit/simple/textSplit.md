@@ -14,4 +14,5 @@ $textSplit[this is a text#this is another text;#]
 ```
 If you don't know the syntax of BDFD, ";" is for seperating the texts and the seperator. 
 
-That's all for this simple function you wanna check out **placeholder** too :).
+Related Functions -
+[$splitText | Simple](./splitText.md)
