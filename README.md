@@ -38,3 +38,6 @@ You can submit the following types of issues:
 Feature request - request a new tutorial to be added.
 
 Bug report - report a misinformatived outdated tutorial.
+
+
+Status - Unfinished
