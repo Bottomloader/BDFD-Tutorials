@@ -26,4 +26,15 @@ Looking for reliable and frequently updated BDFD tutorials? This GitHub page has
 
 [Text Split](./src/tutorials/textsplit/textsplitintro)
 
-Still need help? Check out the official [wiki](https://github.com/NilPointer-Software/bdfd-wiki) or ask in the [BDFD server](https://botdesignerdiscord.com/discord)
+
+### ❓ Asking a question
+
+If you have a qestion about a tutorial, post in please look at the [BDFD wiki](https://github.com/NilPointer-Software/bdfd-wiki) or/and the [BDFD server](https://botdesignerdiscord.com/discord). Your question will be answered much faster there.
+
+### ❗ Submitting an issue
+
+You can submit the following types of issues:
+
+Feature request - request a new tutorial to be added.
+
+Bug report - report a misinformatived outdated tutorial.
