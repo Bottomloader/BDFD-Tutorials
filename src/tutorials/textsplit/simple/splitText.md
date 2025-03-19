@@ -20,3 +20,4 @@ $splitText[2] $c[This returns "this is another text".]
 That's the main idea for text split's
 
 Related Functions -
+[$textSplit](./textSplit.md)
