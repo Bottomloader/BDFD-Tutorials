@@ -1,6 +1,6 @@
 <div align="center">
 
-[![BDFD Logo](https://github.com/user-attachments/assets/789fb2a2-aa5b-4fe3-a521-4c30b8438519)](https://app.botdesignerdiscord.com/)
+[![BDFD Logo](https://github.com/Bottomloader/BDFD-Tutorials/raw/main/path/to/logo.png)](https://app.botdesignerdiscord.com/)
 
 ### BDFD Tutorials - Unofficial
 
@@ -20,24 +20,19 @@
 
 Looking for reliable and frequently updated BDFD tutorials? This GitHub page has what you need! With multiple tutorials, you won’t need to search elsewhere.
 
-
-
 ### 🛠️ Tutorials
 
 [Text Split](./src/tutorials/textsplit/textsplitintro)
 
-
 ### ❓ Asking a question
 
-If you have a qestion about a tutorial, please look at the [BDFD wiki](https://github.com/NilPointer-Software/bdfd-wiki) or/and the [BDFD server](https://botdesignerdiscord.com/discord). Your question will be answered much faster there.
+If you have a question about a tutorial, please check out the [BDFD wiki](https://github.com/NilPointer-Software/bdfd-wiki) or join the [BDFD server](https://botdesignerdiscord.com/discord). Your question will be answered much faster there.
 
 ### ❗ Submitting an issue
 
 You can submit the following types of issues:
 
-Feature request - request a new tutorial to be added.
+- **Feature request:** Request a new tutorial to be added.
+- **Bug report:** Report a misinformed or outdated tutorial.
 
-Bug report - report a misinformatived outdated tutorial.
-
-
-Status - Unfinished
+Status: Unfinished
