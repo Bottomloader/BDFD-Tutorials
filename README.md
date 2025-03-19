@@ -7,7 +7,7 @@
 [![GitHub Forks](https://img.shields.io/github/forks/Bottomloader/BDFD-Tutorials?style=flat&logo=Github&label=Forks)](https://github.com/Bottomloader/BDFD-Tutorials/network/members)    
 [![GitHub Repo Stars](https://img.shields.io/github/stars/Bottomloader/BDFD-Tutorials?style=flat&logo=Github&label=Stars)](https://github.com/Bottomloader/BDFD-Tutorials/stargazers)    
 [![GitHub Watchers](https://img.shields.io/github/watchers/Bottomloader/BDFD-Tutorials?style=flat&logo=Github&label=Watchers)](https://github.com/Bottomloader/BDFD-Tutorials/watchers)    
-\  
+\
 [![GitHub Contributors](https://img.shields.io/github/contributors/Bottomloader/BDFD-Tutorials?style=flat&logo=Github&label=Contributors)](https://github.com/Bottomloader/BDFD-Tutorials/graphs/contributors)    
 [![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/Bottomloader/BDFD-Tutorials?logo=GitHub&style=flat&label=Commit+activity)](https://github.com/Bottomloader/BDFD-Tutorials/graphs/commit-activity)    
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/Bottomloader/BDFD-Tutorials?style=flat&logo=Github&label=Last+commit)](https://github.com/Bottomloader/BDFD-Tutorials/commits)    
