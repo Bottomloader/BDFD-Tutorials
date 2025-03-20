@@ -14,6 +14,7 @@ Index is for getting a text from `$textSplit`. For example let's say the seperat
 $textSplit[this is a text#this is another text;#]
 $splitText[2] $c[This returns "this is another text".]
 ```
+You can type "<" or ">" instead of a number. "<" is for the first index and ">" is for the last index. I won't talk much about them.
 
 That's the main idea for text split's
 
