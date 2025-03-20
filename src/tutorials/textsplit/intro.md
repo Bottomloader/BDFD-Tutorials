@@ -7,8 +7,10 @@ Hello, in this tutorial you'll learn how to use text split functions. Text split
 - Exceeding the maximum amount inside a variable
 
 ### Functions
-[$textSplit | simple](./simple/textSplit.md)<br>
-[$splitText | simple](./simple/splitText.md)
+[$textSplit | Simple](./simple/textSplit.md)<br>
+[$splitText | Simple](./simple/splitText.md)<br>
+[$getTextSplitIndex | Simple](./simple/getTextSplitIndex.md)<br>
+[$editSplitText | Simple](./simple/editSplitText.md)
 
 Crediting -
 We have took some info from:
