@@ -38,6 +38,9 @@ You can submit the following types of issues:
 Feature request - request a new tutorial to be added.  
   
 Bug report - report a misinformatived outdated tutorial.  
-  
+
+### 🙌 Contributing
+
+If you would like to contribute in this repository, do checkout [CONTRIBUTING.md](./CONTRIBUTING.md) for further information.
   
 Status - Unfinished
