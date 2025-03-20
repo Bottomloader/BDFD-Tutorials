@@ -12,5 +12,5 @@ Hello, in this tutorial you'll learn how to use text split functions. Text split
 
 Crediting -
 We have took some info from:
-- https://github.com/kitten-tenacious/BDFD-TextSplit-Variables
+- https://github.com/kitten-tenacious/BDFD-TextSplit-Variables <br>
 You should check them too!
