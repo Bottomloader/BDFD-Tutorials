@@ -17,4 +17,5 @@ $getTextSplitIndex[BDFD is the best] $c[Returns "-1" as this doesn't exist.]
 
 Related Functions - <br>
 [$textSplit | Simple](./textSplit.md)<br>
-[$splitText | Simple](./splitText.md)
+[$splitText | Simple](./splitText.md)<br>
+[$editSplitText | Simple](./editSplitText.md)
