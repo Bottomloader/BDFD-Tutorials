@@ -16,4 +16,4 @@ If you don't know the syntax of BDFD, ";" is for seperating the texts and the se
 
 Related Functions - <br>
 [$splitText | Simple](./splitText.md)<br>
-[$getTextSplitIndex | Simple](.getTextSplitIndex.md)
+[$getTextSplitIndex | Simple](./getTextSplitIndex.md)
