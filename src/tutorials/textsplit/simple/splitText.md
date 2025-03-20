@@ -21,5 +21,5 @@ That's the main idea for text split's
 
 Related Functions - <br>
 [$textSplit | Simple](./textSplit.md)<br>
-[$getTextSplitIndex | Simple](./getTextSplitIndex.md)
+[$getTextSplitIndex | Simple](./getTextSplitIndex.md)<br>
 [$editSplitText | Simple](./editSplitText.md)
