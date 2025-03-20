@@ -24,7 +24,7 @@ Looking for reliable and frequently updated BDFD tutorials? This GitHub page has
   
 ### 🛠️ Tutorials  
   
-[Text Split](./src/tutorials/textsplit/textsplitintro)  
+To check all the tutorials there is pleass refer to [Tutorial List](./src/tutorialList.md)
   
   
 ### ❓ Asking a question  
