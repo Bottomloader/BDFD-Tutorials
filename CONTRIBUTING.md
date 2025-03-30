@@ -157,4 +157,4 @@ Large Code Block
 
 **Thanks to everyone who has already contributed!**
 
-[![Contributors](https://contrib.rocks/image?repo=Bottomloader/BDFD-Tutorials)](https://github.com/Bottomloader/BDFD-Tutorials/graphs/contributors).
+[![Contributors](https://contrib.rocks/image?repo=Bottomloader/BDFD-Tutorials)](https://github.com/Bottomloader/BDFD-Tutorials/graphs/contributors)
