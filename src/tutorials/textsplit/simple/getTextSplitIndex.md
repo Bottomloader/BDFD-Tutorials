@@ -15,7 +15,3 @@ $getTextSplitIndex[this is another text] $c[Returns "2"]
 $getTextSplitIndex[BDFD is the best] $c[Returns "-1" as this doesn't exist.]
 ```
 
-Related Functions - <br>
-[$textSplit | Simple](./textSplit.md)<br>
-[$splitText | Simple](./splitText.md)<br>
-[$editSplitText | Simple](./editSplitText.md)
