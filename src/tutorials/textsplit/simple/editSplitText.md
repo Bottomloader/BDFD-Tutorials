@@ -15,3 +15,6 @@ $splitText[1] $c[Returns "this is a text"]
 $editSplitText[1;BDFD is nice]
 $splitText[1] $c[Returns "BDFD is nice"]
 ```
+
+You made it!
+You finished the basics of text split.
