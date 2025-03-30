@@ -12,7 +12,7 @@ Hello, in this tutorial you'll learn how to use text split functions. Text split
 [$getTextSplitIndex | Simple](./simple/getTextSplitIndex.md)<br>
 [$editSplitText | Simple](./simple/editSplitText.md)
 
-### Crediting - <br>
+### Crediting<br>
 We have took some info from:
 - https://github.com/kitten-tenacious/BDFD-TextSplit-Variables <br>
 You should check them too!
