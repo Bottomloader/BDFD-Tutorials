@@ -14,3 +14,6 @@ $textSplit[this is a text#this is another text#this is a cooler text!;#]
 $removeSplitTextElement[1] $c[Removes "this is a text"]
 $splitText[1] $c[Returns "this is another text".]
 ```
+
+See Next -<br>
+[$editSplitText | Simple](./editSplitText.md)
