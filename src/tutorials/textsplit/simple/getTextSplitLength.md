@@ -12,3 +12,6 @@ $textSplit[this is a text#this is another text;#]
 $getTextSplitLength $c[Returns 2]
 ```
 This returned 2 since there's two text's—"this is a text" and "this is another text"
+
+See Next -<br>
+[$getTextSplitIndex | Simple](./getTextSplitIndex.md)
