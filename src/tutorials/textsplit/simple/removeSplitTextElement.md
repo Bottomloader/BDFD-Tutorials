@@ -20,5 +20,5 @@ Related Functions - <br>
 [$textSplit | Simple](./textSplit.md)<br>
 [$splitText | Simple](./splitText.md)<br>
 [$getTextSplitIndex | Simple](./getTextSplitIndex.md)<br>
-[$editSplitText | Simple](./editSplitText.md)
+[$editSplitText | Simple](./editSplitText.md)<br>
 [$joinSplitText | Simple](./joinSplitText.md)
