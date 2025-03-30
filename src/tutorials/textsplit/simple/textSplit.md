@@ -13,3 +13,6 @@ Now seperator is for separating the texts in the first argument. Now let's say o
 $textSplit[this is a text#this is another text;#]
 ```
 If you don't know the syntax of BDFD, ";" is for seperating the texts and the seperator. 
+
+See Next -<br>
+[$splitText | Simple](./splitText.md)
