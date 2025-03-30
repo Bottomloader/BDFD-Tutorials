@@ -13,10 +13,3 @@ So you define the seperator in $textSplit, but you can change it with this funct
 $textSplit[this is a text-this is another text;-]
 $joinSplitText[#] $c[The separator is now "#".]
 ```
-
-
-Related Functions - <br>
-[$textSplit | Simple](./textSplit.md)<br>
-[$splitText | Simple](./splitText.md)<br>
-[$getTextSplitIndex | Simple](./getTextSplitIndex.md)<br>
-[$editSplitText | Simple](./editSplitText.md)
