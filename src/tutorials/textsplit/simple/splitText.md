@@ -18,7 +18,3 @@ You can type "<" or ">" instead of a number. "<" is for the first index and ">" 
 
 That's the main idea for text split's
 
-Related Functions - <br>
-[$textSplit | Simple](./textSplit.md)<br>
-[$getTextSplitIndex | Simple](./getTextSplitIndex.md)<br>
-[$editSplitText | Simple](./editSplitText.md)
