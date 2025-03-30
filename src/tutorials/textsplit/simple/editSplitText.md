@@ -15,8 +15,3 @@ $splitText[1] $c[Returns "this is a text"]
 $editSplitText[1;BDFD is nice]
 $splitText[1] $c[Returns "BDFD is nice"]
 ```
-
-Related Functions - <br>
-[$textSplit | Simple](./textSplit.md)<br>
-[$splitText | Simple](./splitText.md)<br>
-[$getTextSplitIndex | Simple](./getTextSplitIndex.md)
