@@ -18,3 +18,6 @@ You can type "<" or ">" instead of a number. "<" is for the first index and ">" 
 
 That's the main idea for text split's
 
+See Next -<br>
+[$joinSplitText | Simple](./joinSplitText.md)
+
