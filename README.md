@@ -24,12 +24,12 @@ Looking for reliable and frequently updated BDFD tutorials? This GitHub page has
   
 ### 🛠️ Tutorials  
   
-To check all the tutorials there is pleass refer to [Tutorial List](./src/tutorialList.md)
+To check all the tutorials there is please refer to [Tutorial List](./src/tutorialList.md)
   
   
 ### ❓ Asking a question  
   
-If you have a qestion about a tutorial, please look at the [BDFD wiki](https://github.com/NilPointer-Software/bdfd-wiki) or/and the [BDFD server](https://botdesignerdiscord.com/discord). Your question will be answered much faster there.  
+If you have a question about a tutorial, please look at the [BDFD wiki](https://github.com/NilPointer-Software/bdfd-wiki) or/and the [BDFD server](https://botdesignerdiscord.com/discord). Your question will be answered much faster there.  
   
 ### ❗ Submitting an issue  
   
