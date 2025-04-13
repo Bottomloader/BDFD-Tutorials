@@ -8,6 +8,7 @@ Hello, in this tutorial you'll learn how to use text split functions. Text split
 
 ### Functions
 [$textSplit | Simple](./simple/textSplit.md)<br>
+^ Start from here!<br>
 [$splitText | Simple](./simple/splitText.md)<br>
 [$getTextSplitIndex | Simple](./simple/getTextSplitIndex.md)<br>
 [$editSplitText | Simple](./simple/editSplitText.md)
