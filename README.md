@@ -29,7 +29,7 @@ To check all the tutorials there is please refer to [Tutorial List](./src/tutori
   
 ### ❓ Asking a question  
   
-If you have a question about a tutorial, please look at the [BDFD wiki](https://github.com/NilPointer-Software/bdfd-wiki) or/and the [BDFD server](https://botdesignerdiscord.com/discord). Your question will be answered much faster there.  
+If you have a question about a tutorial, please look at the [BDFD wiki](https://github.com/NilPointer-Software/bdfd-wiki) and the [BDFD server](https://botdesignerdiscord.com/discord). Your question will be answered much faster there.  
   
 ### ❗ Submitting an issue  
   
