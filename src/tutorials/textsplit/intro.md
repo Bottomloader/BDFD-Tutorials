@@ -6,12 +6,8 @@ Hello, in this tutorial you'll learn how to use text split functions. Text split
 - Storing multiple variables inside a single variable.
 - Exceeding the maximum amount inside a variable
 
-### Functions
-[$textSplit | Simple](./simple/textSplit.md)<br>
-^ Start from here!<br>
-[$splitText | Simple](./simple/splitText.md)<br>
-[$getTextSplitIndex | Simple](./simple/getTextSplitIndex.md)<br>
-[$editSplitText | Simple](./simple/editSplitText.md)
+### Start From...
+[$textSplit | Simple](./simple/textSplit.md)
 
 ### Crediting<br>
 We have took some info from:
